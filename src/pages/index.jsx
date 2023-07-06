@@ -253,7 +253,7 @@ export default function Home({ articles }) {
         <title>Jose Valerio</title>
         <meta
           name="description"
-          content="I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms."
+          content="I’m Jose, just testing things out :)"
         />
       </Head>
       <Container className="mt-9">
@@ -262,10 +262,7 @@ export default function Home({ articles }) {
             Jose Valerio
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Spencer, a software designer and entrepreneur based in New York
-            City. I’m the founder and CEO of Planetaria, where we develop
-            technologies that empower regular people to explore space on their
-            own terms.
+            I’m Jose, just testing things out :)
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
